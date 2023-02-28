@@ -10,5 +10,6 @@ Energy minimization (steepest descent algorithm) was run for 5,000 steps to remo
 All simulations were performed in the NPT ensemble at constant number of particles N, pressure, and temperature
 The production runs of equilibrium MD were performed for 1 ns.
 The production run was performed by submitting jobs using SLURM language in the high performance cluster (HPC) of Indian Institute of Technology, Guwahati – ParamIshan.
-Data were analyzed using GROMACS and locally written code. Molecular graphic images were prepared using visual molecular dynamics (VMD).
+Data were analyzed using GROMACS and locally written code and images were viewed in Grace software. 
+Molecular graphic images were prepared using visual molecular dynamics (VMD).
 All simulations were carried out with the extended united atom CHARMM27 allatom force field (CHARM22 plus CMAP for proteins) forcefield.
